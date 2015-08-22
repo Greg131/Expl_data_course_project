@@ -37,23 +37,41 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
+
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
+
 
 The set of variables that were estimated from these signals are: 
 
@@ -62,6 +80,48 @@ std: Standard deviation
 
 Then average of each feature is claculated for each activity and subject
 
+
+Features units
+
+=================
+Units are those of International System of Unitst
+
+tBodyAcc-XYZ related features are in m/s2
+
+tGravityAcc-XYZ m/s2
+
+tBodyAccJerk-XYZ m/s2
+
+tBodyGyro-XYZ rd/s
+
+tBodyGyroJerk-XYZ rd/s
+
+tBodyAccMag m/s2
+
+tGravityAccMag Hz
+
+tBodyAccJerkMag Hz
+
+tBodyGyroMag Hz
+
+tBodyGyroJerkMag Hz
+
+fBodyAcc-XYZ m/s2
+
+fBodyAccJerk-XYZ m/s2
+
+fBodyGyro-XYZ rd/s
+
+fBodyAccMag Hz
+
+fBodyAccJerkMag Hz
+
+fBodyGyroMag Hz
+
+fBodyGyroJerkMag Hz
+
+
+
 =================
 The full list of 68 columns of AverageByActivitySubject data set is then 
 
@@ -69,7 +129,7 @@ The full list of 68 columns of AverageByActivitySubject data set is then
 
 2 - subject
 
-3 - average_tBodyAcc_mean_X
+3 - average_tBodyAcc_mean_X 
 
 4 - average_tBodyAcc_mean_Y
 
