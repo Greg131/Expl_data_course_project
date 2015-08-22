@@ -4,7 +4,7 @@ Files available in the repo :
 
 * run_analysis.R : R script allowing to go from the "raw data"" to the "tidy data set" with related explainations. 
 * CodeBook.md : code book describing each variable and its values in the tidy data set.
-* AverageByActivitySubject.txt : text file containing the tidy data set.
+
 
 ## The raw data
 

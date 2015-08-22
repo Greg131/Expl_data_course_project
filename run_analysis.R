@@ -1,7 +1,7 @@
 # Samsung data are assumed to be in your working directory : 
 # with one subdirectory "train" containing the training set 
 # and one subdirectory "test" containing the test set
-setwd("~/Dropbox/Datascience/Universite_Johns-Hopkins/Obtenir_et_trier_les_donnees/Repo/data/UCI HAR Dataset")
+# setwd("~/Dropbox/Datascience/Universite_Johns-Hopkins/Obtenir_et_trier_les_donnees/Repo/data/UCI HAR Dataset")
 
 #--------------------------------------------------------------------------------------------
 # Reading training and test set from files 
