@@ -1,6 +1,8 @@
 # The Code Book
 ## Getting and cleaning the data - course project
 
+This book is descibing each variable and its values in AverageByActivitySubject.txt
+
 Subject id  
 =================
 
