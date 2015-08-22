@@ -125,6 +125,7 @@ fBodyGyroJerkMag Hz
 =================
 The full list of 68 columns of AverageByActivitySubject data set is then 
 
+
 1 - activity
 
 2 - subject
