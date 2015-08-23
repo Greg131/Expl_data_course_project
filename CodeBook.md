@@ -83,6 +83,7 @@ Then average of each feature is claculated for each activity and subject
 =================
 Features units
 
+All features are numeric
 Units are those of International System of Units
 
 tBodyAcc-XYZ related features are in m/s2
